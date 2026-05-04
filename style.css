@@ -1,0 +1,92 @@
+body {
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.naV {
+    color: white;
+    text-align: center;
+}
+
+nav a {
+    color: aqua;
+}
+
+.hero {
+    color: white;
+    text-align: center;
+    border: solid 1px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.H2 {
+    text-align: center;
+}
+
+.abouT {
+    color: white;
+    border: solid 2px;
+    border-radius: 10px;
+    margin-top: 50px;
+    text-align: justify;
+    padding: 10px;
+}
+
+.educ {
+    color: white;
+    border: solid 2px;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.certificate {
+    color: white;
+    border: solid 2px;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.skillS {
+    color: white;
+    border: solid 2px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.proj {
+    color: white;
+    border: solid 2px;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.conT {
+    color: white;
+    border: solid 2px;
+    border-radius: 10px;
+    margin-top: 50px;
+    height: 150px;
+}
+
+#fb{
+    height: 75px;
+    position: relative;
+    left: 200px;
+}
+
+#ig{
+    height: 50px;
+    position: relative;
+    left: 135px;
+    bottom: 67px;
+}
+
+.foot {
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
